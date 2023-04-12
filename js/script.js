@@ -5,7 +5,8 @@ createApp({
     data(){
 
         return{
-            message: "ciao Vue"
+            message: "ciao Vue",
+            image: "img/universo.webp"
         }
     }
 
